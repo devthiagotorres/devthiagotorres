@@ -1,5 +1,9 @@
 ### Thiago Torres
 
+##
+
+### Formação
+
 * UNIFBV: Análise e Desenvolvimento de Sistemas (2024 - 2026)
 
 * ETE Cícero Dias: Técnico em programação de jogos digitais (2021 - 2023)

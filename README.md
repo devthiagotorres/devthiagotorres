@@ -41,6 +41,6 @@
   
   ##
 
-  [![Blog]([https://img.shields.io/website?label=meusite.com&style=for-the-badge&url=https://meusite.com](https://portfolio-dusky-phi-57.vercel.app))](https://meusite.com)
+  [![Blog](https://portfolio-dusky-phi-57.vercel.app)](https://meusite.com)
   <a href = "mailto:tjgts2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devthiagotorres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
